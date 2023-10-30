@@ -1,0 +1,3 @@
+object ArithmeticExpression extends Enumeration {
+  type ArithmeticExpression = Value
+  val Num, Minus, Plus, Mult, Div = Value
