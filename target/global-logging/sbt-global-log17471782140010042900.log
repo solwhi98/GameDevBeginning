@@ -1,0 +1,8 @@
+[debug] > Exec(git-init, None, None)
+[error] Not a valid command: git-init (similar: init)
+[error] Not a valid project ID: git-init
+[error] Expected ':'
+[error] Not a valid key: git-init
+[error] git-init
+[error]         ^
+[debug] > Exec(idea-shell, None, None)
