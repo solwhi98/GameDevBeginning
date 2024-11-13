@@ -1,3 +1,10 @@
 게임 개발 기초 
-  Game Engine = 
+  Game Engine = 게임을 개발할 때 사용되는 프로그램/소프트웨어. 작업자의 도구 상자로 비유. 
+    -> Landscape creation, 2D/3D Image model, animation, code writing, implementing, ... everything you need, to make a game
+  게임 엔진 종류: 
+    1. Unity: PC, Console, Web, VR 등 다양한 플랫폼용 -> 초보자가 배우기 적합 
+    2. Godot Engine: 오픈소스, 완전 무료. 인디 개발자들과 소규모/스타트업 팀들에게 인기
+    3. Unreal: 조금 어려움. 고급 그래픽 기능. 트리플 A 게임에서 자주 사용
+
+
   
